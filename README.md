@@ -1,7 +1,7 @@
 # celsius-faraenheit-flask-app
 My first Flask App deployed on Heroku
 
-## Helping Sources:
+### some helping sources:
 ### 
     https://dev.to/lordofdexterity/deploying-flask-app-on-heroku-using-github-50nh  
 ### 
